@@ -1,2 +1,2 @@
 # readygo
-Basic knowledge of programming.
+这个仓库主要用来记录一些编程的知识，希望自己时刻准备着！
